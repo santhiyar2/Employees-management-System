@@ -1,0 +1,5 @@
+101,John,45,35000,sales
+102,Kiruthika,23,20000,Employee
+103,Karthika,26,25000,sales
+104,Madhan,33,15000,Executive
+105,Karthi,44,40000,HR
